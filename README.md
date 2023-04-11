@@ -38,6 +38,8 @@ https://dummyjson.com/docs/users
 
 for login 
 https://dummyjson.com/docs/auth#login
+ password: '0lelplR'  username: 'kminchelle',
+             
 
 for get products
 https://dummyjson.com/docs/products
